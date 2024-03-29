@@ -18,6 +18,7 @@ Create and boot a SSH ramdisk on checkm8 devices
 
 1. A computer running macOS/linux
 2. A checkm8 device (A7-A11)
+3. Compile https://github.com/haiyuidesu/iBoot64Patcher and replace in Darwin
 
 # Usage
 
